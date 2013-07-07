@@ -1,6 +1,6 @@
 *.pyc
 hairtunes
 *.pid
-speaker_info.json
+*.json
 shairport
 *.o
