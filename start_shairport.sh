@@ -1,0 +1,1 @@
+perl /home/pi/sonos-airplay/shairport.pl -d -w /home/pi/sonos-airplay/shairport.pid -l 70 --apname="Sonos" --play_prog="/home/pi/.virtualenvs/sonos/bin/python /home/pi/sonos-airplay/engage.py" --stop_prog="/home/pi/.virtualenvs/sonos/bin/python /home/pi/sonos-airplay/disengage.py"
